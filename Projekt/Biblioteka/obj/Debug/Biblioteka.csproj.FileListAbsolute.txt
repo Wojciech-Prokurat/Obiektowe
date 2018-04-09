@@ -1,0 +1,6 @@
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\Użytkownik\Desktop\Projekt\Biblioteka\obj\Debug\Biblioteka.pdb

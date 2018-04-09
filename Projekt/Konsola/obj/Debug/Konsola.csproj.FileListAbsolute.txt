@@ -1,0 +1,9 @@
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\bin\Debug\Konsola.exe.config
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\bin\Debug\Konsola.exe
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\bin\Debug\Konsola.pdb
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\bin\Debug\Biblioteka.dll
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\bin\Debug\Biblioteka.pdb
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\obj\Debug\Konsola.csprojResolveAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\obj\Debug\Konsola.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\obj\Debug\Konsola.exe
+C:\Users\Użytkownik\Desktop\Projekt\Konsola\obj\Debug\Konsola.pdb
